@@ -5,7 +5,7 @@ I like to solve problems using Technology. I like open source and believe in fre
 My ongoing project:
 1. [Carbon-go](https://github.com/sukeesh/carbon-go)
 
-Some of my recent projects:
+Some of my recent projects (last 6 months):
 1. [Home Loan Prepayment calculator](https://github.com/sukeesh/home-loan-prepayment-calculator)
 2. [Proxy Py](https://github.com/sukeesh/proxy-py)
 3. [Markitdown-go](https://github.com/sukeesh/markitdown-go)
