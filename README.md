@@ -6,7 +6,7 @@ My ongoing project:
 1. [Carbon-go](https://github.com/sukeesh/carbon-go)
 
 Some of my recent projects (last 6 months):
-1. [Home Loan Prepayment calculator](https://github.com/sukeesh/home-loan-prepayment-calculator)
+1. [Home Loan Prepayment calculator](https://github.com/sukeesh/home-loan-prepayment-calculator) (Live demo link)[https://sukeesh-home-loan-prepayment.streamlit.app/]
 2. [Proxy Py](https://github.com/sukeesh/proxy-py)
 3. [Markitdown-go](https://github.com/sukeesh/markitdown-go)
 4. [MigrateX](https://github.com/sukeesh/MigrateX)
